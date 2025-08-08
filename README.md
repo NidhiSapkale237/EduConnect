@@ -4,7 +4,7 @@ EduConnect is a student-focused platform to help manage studies, collaborate on 
 
 ---
 
-## 🔧 Core Features
+## 🔧 Core Features (this needs to be updated, dont look here)
 
 - Study roadmaps by field (Web Dev, AI, GATE, etc.)
 - Doubt discussion forum (Reddit/StackOverflow style)
